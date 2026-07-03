@@ -64,7 +64,7 @@ Feature-first Clean Architecture with strict separation of concerns
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/your-username/location-tracker-app.git
+git clone https://github.com/amoraherbertb/location_tracker_herbert.git
 cd location-tracker-app
 ```
 
